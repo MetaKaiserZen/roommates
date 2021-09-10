@@ -1,0 +1,23 @@
+{
+  "name": "roommates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaKaiserZen/roommates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetaKaiserZen/roommates/issues"
+  },
+  "homepage": "https://github.com/MetaKaiserZen/roommates#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "uuid": "^8.3.2"
+  }
+}
